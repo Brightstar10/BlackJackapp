@@ -25,5 +25,10 @@ button {
    padding: 7px;
    border-radius: 5px;
    font-weight: bold;
+ 
   
+}
+
+#newcard-el{
+  margin-top: 2px;
 }
